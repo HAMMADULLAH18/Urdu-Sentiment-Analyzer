@@ -46,10 +46,10 @@ This project classifies Urdu movie reviews as **Positive** or **Negative** using
 ## 🖥 Application Preview
 
 ### 🔴 Negative Prediction
-![Negative](screenshots/negative.png)
+![Negative](negative.png)
 
 ### 🟢 Positive Prediction
-![Positive](screenshots/positive.png)
+![Positive](positive.png)
 
 ---
 
@@ -77,3 +77,4 @@ BSAI Student | AI Engineer Journey 🚀
 ---
 
 ⭐ If you like this project, give it a star!
+
