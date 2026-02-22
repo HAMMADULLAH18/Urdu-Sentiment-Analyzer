@@ -86,14 +86,6 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-st.markdown("---")
-st.markdown(
-    "<div style='text-align: center; color: grey;'>"
-    "Created by <b>HammadUllah_2026</b> | Hosted on Streamlit Cloud 🚀"
-    "</div>",
-    unsafe_allow_html=True
-)
-
 # Add GitHub + LinkedIn buttons
 st.markdown(
     """
