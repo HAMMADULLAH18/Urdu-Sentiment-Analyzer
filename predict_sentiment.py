@@ -76,3 +76,11 @@ if st.button("Predict Sentiment"):
             st.error(f"Predicted Sentiment: {sentiment} ❌")
     else:
         st.warning("Please enter some text first!")
+
+st.markdown("---")
+st.markdown(
+    "<div style='text-align: center; color: grey;'>"
+    "Created by <b>HammadUllah_2026</b> | Hosted on Streamlit Cloud 🚀"
+    "</div>",
+    unsafe_allow_html=True
+)
