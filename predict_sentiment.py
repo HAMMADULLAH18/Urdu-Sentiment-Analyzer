@@ -77,10 +77,34 @@ if st.button("Predict Sentiment"):
     else:
         st.warning("Please enter some text first!")
 
+
 st.markdown("---")
 st.markdown(
     "<div style='text-align: center; color: grey;'>"
     "Created by <b>HammadUllah_2026</b> | Hosted on Streamlit Cloud 🚀"
     "</div>",
+    unsafe_allow_html=True
+)
+
+st.markdown("---")
+st.markdown(
+    "<div style='text-align: center; color: grey;'>"
+    "Created by <b>HammadUllah_2026</b> | Hosted on Streamlit Cloud 🚀"
+    "</div>",
+    unsafe_allow_html=True
+)
+
+# Add GitHub + LinkedIn buttons
+st.markdown(
+    """
+    <div style='text-align: center;'>
+        <a href='https://github.com/HAMMADULLAH18' target='_blank'>
+            <img src='https://img.shields.io/badge/GitHub-Profile-black?logo=github' style='margin-right: 10px;'/>
+        </a>
+        <a href='https://www.linkedin.com/in/hammadullah18/' target='_blank'>
+            <img src='https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin'/>
+        </a>
+    </div>
+    """,
     unsafe_allow_html=True
 )
