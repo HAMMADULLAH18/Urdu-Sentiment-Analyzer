@@ -3,7 +3,7 @@
 A Machine Learning web application built using TF-IDF and SVM to classify Urdu movie reviews as Positive or Negative.
 
 ## 🚀 Live Demo
-[[Click Here to Use the App][(PASTE_YOUR_STREAMLIT_LINK]](https://urdu-sentiment-analyzer-kfr9buwwlm3hkjryqkhxsb.streamlit.app/)
+(https://urdu-sentiment-analyzer-kfr9buwwlm3hkjryqkhxsb.streamlit.app/)
 
 ## 🛠 Technologies Used
 - Python
@@ -15,5 +15,6 @@ A Machine Learning web application built using TF-IDF and SVM to classify Urdu m
 ## 👨‍💻 Author
 Hammad Ullah
 BSAI Student
+
 
 
